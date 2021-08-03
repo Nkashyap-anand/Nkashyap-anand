@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nkashyap-anand.
 - 👀 I’m interested in Web Dev and ML!
-- 🌱 I’m currently learning.. React, algo, ML!
+- 🌱 I’m currently learning.. React, DSA, ML!
 - 💞️ I’m looking to collaborate on ML, Web Dev, Web Scraping, Full Stack Dev :)
 - 📫 How to reach me ~ nkashyap.anand@gmail.com!
 
